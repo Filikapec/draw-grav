@@ -1,0 +1,12 @@
+C:\Users\Pera Pipi\source\repos\Glodalica Grtez Generator\Glodalica Grtez Generator\bin\Debug\Glodalica Grtez Generator.exe.config
+C:\Users\Pera Pipi\source\repos\Glodalica Grtez Generator\Glodalica Grtez Generator\bin\Debug\Glodalica Grtez Generator.exe
+C:\Users\Pera Pipi\source\repos\Glodalica Grtez Generator\Glodalica Grtez Generator\bin\Debug\Glodalica Grtez Generator.pdb
+C:\Users\Pera Pipi\source\repos\Glodalica Grtez Generator\Glodalica Grtez Generator\bin\Debug\Glodalica Grtez Generator.xml
+C:\Users\Pera Pipi\source\repos\Glodalica Grtez Generator\Glodalica Grtez Generator\obj\Debug\Glodalica Grtez Generator.vbproj.AssemblyReference.cache
+C:\Users\Pera Pipi\source\repos\Glodalica Grtez Generator\Glodalica Grtez Generator\obj\Debug\Glodalica_Grtez_Generator.Form1.resources
+C:\Users\Pera Pipi\source\repos\Glodalica Grtez Generator\Glodalica Grtez Generator\obj\Debug\Glodalica_Grtez_Generator.Resources.resources
+C:\Users\Pera Pipi\source\repos\Glodalica Grtez Generator\Glodalica Grtez Generator\obj\Debug\Glodalica Grtez Generator.vbproj.GenerateResource.cache
+C:\Users\Pera Pipi\source\repos\Glodalica Grtez Generator\Glodalica Grtez Generator\obj\Debug\Glodalica Grtez Generator.vbproj.CoreCompileInputs.cache
+C:\Users\Pera Pipi\source\repos\Glodalica Grtez Generator\Glodalica Grtez Generator\obj\Debug\Glodalica Grtez Generator.exe
+C:\Users\Pera Pipi\source\repos\Glodalica Grtez Generator\Glodalica Grtez Generator\obj\Debug\Glodalica Grtez Generator.xml
+C:\Users\Pera Pipi\source\repos\Glodalica Grtez Generator\Glodalica Grtez Generator\obj\Debug\Glodalica Grtez Generator.pdb
